@@ -8,7 +8,7 @@ I found out about Vite and I wanted to have a boilerplate for the technologies t
 
 ## Installation
 
-Clone the repo and run `yarn install`
+Clone the repo and run `pnpm install`
 
 or Run command
 
@@ -18,7 +18,7 @@ npx degit TheSwordBreaker/vite-reactts-eslint-prettier project-name
 
 ## Start
 
-After the successfull installation of the packages: `yarn dev`
+After the successfull installation of the packages: `pnpm dev`
 
 ## Steps in Vscode
 
